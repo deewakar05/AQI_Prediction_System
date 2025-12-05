@@ -309,7 +309,7 @@ python predict_aqi.py info
 ## Project Structure
 
 ```
-ml_pro/
+ml_project/
 ├── data/                    # Dataset files
 │   ├── city_day.csv        # Daily aggregated data by city (primary training data)
 │   ├── city_hour.csv       # Hourly data by city
