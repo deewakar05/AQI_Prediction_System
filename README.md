@@ -647,6 +647,6 @@ For issues, questions, or contributions:
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: December 2024  
+**Last Updated**: December 2025  
 **Python Version**: 3.7+
 
