@@ -118,7 +118,7 @@ A machine learning-based system to predict Air Quality Index (AQI) from pollutan
 ### Step 1: Clone or Download the Repository
 
 ```bash
-cd ml_pro
+cd ml_project
 ```
 
 ### Step 2: Install Dependencies
