@@ -1,0 +1,7 @@
+PM2.5,PM10,NO,NO2,NOx,NH3,CO,SO2,O3,Benzene,Toluene,Xylene,Predicted_AQI,Predicted_AQI_Bucket,Health_Recommendation
+45.2,78.5,12.3,28.4,40.7,15.2,1.2,18.5,52.3,2.1,3.5,1.8,106.99,Moderate,"People with lung disease, children, and older adults should reduce prolonged outdoor exertion."
+62.8,95.3,18.7,35.2,53.9,22.1,1.8,25.3,68.7,3.2,4.8,2.5,151.7,Moderate,"People with lung disease, children, and older adults should reduce prolonged outdoor exertion."
+38.5,65.2,8.9,22.1,31.0,10.5,0.9,14.2,42.1,1.5,2.3,1.2,80.68,Satisfactory,Sensitive people may experience minor breathing discomfort.
+75.3,112.4,25.6,42.8,68.4,28.9,2.3,32.7,85.2,4.5,6.2,3.1,190.11,Moderate,"People with lung disease, children, and older adults should reduce prolonged outdoor exertion."
+52.1,88.7,15.4,31.5,46.9,18.7,1.5,21.4,58.9,2.8,4.1,2.0,121.2,Moderate,"People with lung disease, children, and older adults should reduce prolonged outdoor exertion."
+52.04,40.67,90.24,,52.04,51.84,45.89,2.41,0.03,7.88,,,656.94,Severe,Health warning: Emergency conditions. Entire population is likely to be affected.

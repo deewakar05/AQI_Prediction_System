@@ -1,0 +1,22 @@
+{
+  "predicted_aqi": 111.32,
+  "aqi_category": "Moderate",
+  "health_recommendation": "People with lung disease, children, and older adults should reduce prolonged outdoor exertion.",
+  "input_pollutants": {
+    "PM2.5": 50.0,
+    "NO2": 30.0
+  },
+  "imputed_pollutants": {
+    "PM10": 96.18,
+    "NO": 9.91,
+    "NOx": 23.68,
+    "NH3": 16.31,
+    "CO": 0.93,
+    "SO2": 9.22,
+    "O3": 31.25,
+    "Benzene": 1.29,
+    "Toluene": 3.575,
+    "Xylene": 1.42
+  },
+  "timestamp": "2025-12-05T22:31:51.940699"
+}
